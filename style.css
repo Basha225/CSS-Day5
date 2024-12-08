@@ -1,0 +1,105 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    /* text-align: center; */
+    
+}
+.a{
+    /* border: 2px dashed red; */
+    text-align: center;
+}
+.a1, .a2, .a3, .a4,.a5,.a6,.a7,.a8{
+   
+    display: inline-block;
+    vertical-align: top;
+    margin: 5px;
+    width: 300px;
+
+
+ }
+ 
+img{
+    width: 100%;
+}
+a{
+    text-decoration: none;
+    font-size: 30px;
+    color: #000;
+}
+h3{
+    font-family: "Karma", serif;
+    font-size: 30px;
+    font-weight: 500;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    text-align-last: center;
+}
+h1,p{
+    text-align: center;
+}
+p{
+    font-family: "Karma", serif;
+    font-weight: 400;
+}
+header{
+    width: 100%;
+    background-color: white;
+    /* margin-bottom: 100px; */
+    /* margin-left: 70px; */
+    position: sticky;
+    top: 0px;
+}
+nav{
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 555px;
+    margin-bottom: 10px;
+    font-size: 28px;
+}
+#n1{
+    margin-left: 120px;
+}
+h3{
+    font-family: "Karma", serif;
+    font-weight: 400;
+    font-size: 24px;
+    /* text-align: center; */
+    margin: 10px;
+
+}
+ .a9{
+    text-align: center;
+    
+    margin: 10px;
+    padding: 10px;
+}
+.a10{
+    width: 500px;
+    text-align: center;
+}
+#i1{
+    /* vertical-align: middle; */
+    /* text-align: center; */
+    width: 700px;
+    margin:  o 45px o;
+    /* height: 500px; */
+}
+h4{
+    font-family: "Karma", serif;
+    font-size: 20px;
+    margin: 10px o;
+}
+h6{
+    font-family: "Karma", serif;
+    font-size: 16px;
+    margin: 10px 0;
+}
+#p1{
+    font-family: "Karma", serif;
+    text-align: center;
+    font-weight: 400;
+    /* margin: 0 150px 0; */
+    /* font-size: 15px; */
+    box-sizing: inherit;
+
+}
